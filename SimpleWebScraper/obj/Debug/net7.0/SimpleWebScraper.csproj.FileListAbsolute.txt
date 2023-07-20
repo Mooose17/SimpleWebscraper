@@ -1,0 +1,15 @@
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/bin/Debug/net7.0/SimpleWebScraper
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/bin/Debug/net7.0/SimpleWebScraper.deps.json
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/bin/Debug/net7.0/SimpleWebScraper.runtimeconfig.json
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/bin/Debug/net7.0/SimpleWebScraper.dll
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/bin/Debug/net7.0/SimpleWebScraper.pdb
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/obj/Debug/net7.0/SimpleWebScraper.csproj.AssemblyReference.cache
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/obj/Debug/net7.0/SimpleWebScraper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/obj/Debug/net7.0/SimpleWebScraper.AssemblyInfoInputs.cache
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/obj/Debug/net7.0/SimpleWebScraper.AssemblyInfo.cs
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/obj/Debug/net7.0/SimpleWebScraper.csproj.CoreCompileInputs.cache
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/obj/Debug/net7.0/SimpleWebScraper.dll
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/obj/Debug/net7.0/refint/SimpleWebScraper.dll
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/obj/Debug/net7.0/SimpleWebScraper.pdb
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/obj/Debug/net7.0/SimpleWebScraper.genruntimeconfig.cache
+/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper/obj/Debug/net7.0/ref/SimpleWebScraper.dll

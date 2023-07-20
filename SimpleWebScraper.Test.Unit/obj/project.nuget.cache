@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "nze0xLf0IzsENzVGGOxcWUQoXtSi3gsVrW0nC0EYxpJfe1uHifqUDzr60+hze5WLK2fcLUI4TdoK7JfIeEXy4g==",
+  "success": true,
+  "projectFilePath": "/Users/tommy.bowden/Developer/Play/CsharpProjects/Rider/WebScraper_/WebScraper Practice/SimpleWebScraper/SimpleWebScraper.Test.Unit/SimpleWebScraper.Test.Unit.csproj",
+  "expectedPackageFiles": [
+    "/Users/tommy.bowden/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/microsoft.net.test.sdk/17.5.0/microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/microsoft.testplatform.objectmodel/17.5.0/microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/microsoft.testplatform.testhost/17.5.0/microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
+    "/Users/tommy.bowden/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
